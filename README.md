@@ -18,7 +18,7 @@ Este é o meu espaço digital, onde compartilho projetos, ideias e soluções de
 
 - **Captain's Reserve**: Um **roguelike isométrico** que pode ser jogado [aqui](https://gx.games/pt-br/games/hud1g9/captain-s-reserve/).
 - **Running on Eggshells**: Um **infinite runner** criado em uma Game Jam internacional, que ficou em 39º lugar entre 300 jogos. Você pode jogar [aqui](https://ziggerbr.itch.io/running-on-eggshells).
-- 
+  
 ---
 
 ## 💡 Habilidades técnicas
